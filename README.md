@@ -1,4 +1,4 @@
-# Mata-Mosquito-JS
+# Mata Mosquito JS
 ## Preview
 
 <h1 align="center">
