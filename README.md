@@ -16,7 +16,8 @@ Esse projeto foi desenvolvido utilizando:
 - HTML;
 - CSS;
 - Javascript;
-<br />
+
+
 ## 📝 License
 
 This project is licensed under the MIT License.
